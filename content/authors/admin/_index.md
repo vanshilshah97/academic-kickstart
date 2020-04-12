@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Vanshil Shah
 
 # Username (this should match the folder name)
 authors:
